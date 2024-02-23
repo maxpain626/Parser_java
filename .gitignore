@@ -1,0 +1,31 @@
+
+
+
+# Created by https://www.gitignore.io/api/androidstudio
+
+### Android ###
+
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.vscode
+
+# Keystore files
+
+# Uncomment the following line if you do not want to check in your keystore file.
+*.jks
+
+# Generated files
+
+bin/
+gen/
+out/
+
+# Gradle files
+
+.gradle/
+build/
